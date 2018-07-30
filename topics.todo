@@ -1,0 +1,34 @@
+Using Reactive APIs of Java
+Venkat Subramaniam
+Email: venkats@agiledeveloper.com
+Twitter: @venkat_s
+http://www.agiledeveloper.com download link
+  
+Topics:
+-What's Reactive Programming
+-Java 8 Streams
+-Power and Limitations
+-Data flow
+-Channels of communication     
+-Nonblocking Backpressure      
+ -rules of engagement
+-Reactive Stream API and Effort
+-Java 9 Flow API
+ -Publisher
+	-data source of potentially unbounded stream of data
+ -Subscriber       
+	-receiver of data from a publisher
+ -Subscription                   
+	-think of this as session between a publisher and a subscriber
+ -Processor
+  -processing stage - acts as both publisher and subscriber
+-java.util.concurrent.SubmissionPublisher
+-Creating a publisher
+-Creating a subscriber
+-Canceling subscription
+-backpressure
+-multiple subscribers
+- Summary
+
+You can download this topics list and code examples from:
+	http://www.agiledeveloper.com	 - downloads link
